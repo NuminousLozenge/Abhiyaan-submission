@@ -5,5 +5,5 @@
 - Next the image was fed to the blob detector with adjustable parameters (area, circularity, convexity, inertia)
 - From this keypoints were obtained and a bounding rectangle was constructed around the keypoints
 
-- This code is the 'pothole_detector.py',when this is run with the corresponding video in the same directory (also the video name in the code needs to be suitably updated, see comments in the code) will diplay the video in the opencv window
+- This code is the 'pothole_detector.py',when this is run with the corresponding video in the same directory (also the video name in the code needs to be suitably updated, see comments in the code) will display the video in the opencv window
 - The scripts 'cvtestfinal2.py' and 'imagetovideo.py' were used to save images and create video respectively 
