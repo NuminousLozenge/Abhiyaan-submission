@@ -13,7 +13,7 @@
 ### Task 3
 - Required script for the node can be found in catkin_ws/src/abhiyaan_package/scripts
 - Named as turtle_gravity_code.py
-- Before running the node, however the initial conditions must be setup hence, please copy paste the following
+- Before running the node, however the initial conditions must be setup hence, please copy paste the following in the terminal
 
 
 rosservice call /kill "turtle1"
