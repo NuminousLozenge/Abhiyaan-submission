@@ -16,8 +16,6 @@
 - Before running the node, however the initial conditions must be setup hence, please copy paste the following
 
 
-'''
-
 rosservice call /kill "turtle1"
 
 rosservice call /kill "turtle2"
@@ -30,5 +28,5 @@ rosservice call /spawn 2.544444561004639 5.544444561004639 0 "turtle2"
 
 rosrun abhiyaan_package turtle_gravity_code.py
 
-'''
+
 
