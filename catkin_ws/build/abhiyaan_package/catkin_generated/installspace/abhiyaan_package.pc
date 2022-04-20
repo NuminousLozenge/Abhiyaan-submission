@@ -1,0 +1,8 @@
+prefix=/home/lalit/ROS_workspaces/catkin_ws/install
+
+Name: abhiyaan_package
+Description: Description of abhiyaan_package
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

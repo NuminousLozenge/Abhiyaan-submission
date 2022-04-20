@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/lalit/ROS_workspaces/catkin_ws/devel/setup.sh

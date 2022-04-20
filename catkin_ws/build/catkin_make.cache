@@ -1,0 +1,2 @@
+abhiyaan_package:beginner_tutorials
+-DCATKIN_DEVEL_PREFIX=/home/lalit/ROS_workspaces/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/lalit/ROS_workspaces/catkin_ws/install -G Unix Makefiles

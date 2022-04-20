@@ -1,0 +1,4 @@
+<launch>
+	<node pkg="abhiyaan_package" name="node1" type="node1_code.py"/>	
+	<node pkg="abhiyaan_package" name="node2" type="node2_code.py"/>
+</launch>
