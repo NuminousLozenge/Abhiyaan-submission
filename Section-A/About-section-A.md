@@ -28,5 +28,9 @@ rosservice call /spawn 2.544444561004639 5.544444561004639 0 "turtle2"
 
 rosrun abhiyaan_package turtle_gravity_code.py
 
+- In Task 3 I, subscribed to the pose of both turtles and using their position data, I introduced an increment in their velocities by numerically integrating the acceleration wrt time, then I published these velocities to the turtles cmd_vel
+- However, due to the nature of numerical methods used, small numerical errors over long time add up and result in deviation in path
+- I am currently trying to find and implement better numerical methods for more accurate trajectories 
+
 
 
